@@ -1,12 +1,12 @@
 # IF-D-pad
 An interactive direction pad for moving around Interactive Fiction games.
-##Introduction
+## Introduction
 
 This program turns your number pad into a d-pad for interactive fiction games, which  may help you to visualise the layout of rooms more effectively if you are unable to use maps. The directions have been layed out on the number pad, simulating a compass rose, albeit a square one. 8 is north, 9 northeast, 6 east, etc.
 As well as the standard directions, up and down have  been implemented, as well as in and out. You will also find nautical directions (fore, aft etc) for if you're on a ship and the game only accepts those.
 The d-pad is not tied to any specific interpreter, so there's a key to toggle it on and off when required. 
  
-##Usage
+## Usage
 
 Run the provided program and it will sit in the system tray. Ensure that numlock is turned on. The d-pad is turned on by default.
 Pressing keys on your number pad will input the corresponding direction into the game. There's no need to press enter after as the program does this automatically.
@@ -14,7 +14,7 @@ Pressing ctrl+NumLock toggles the d-pad on or off. A high beep means it's on, a 
 If you use a screen reader, you won't need to turn the d-pad off to use commands assigned to the number pad.
 Press  CTRL+q to quit the program.
 
-##Commands list
+## Commands list
 
 Note: NumLock needs to be turned on for the d-pad to work.
 CTRL+NunLock: toggle d-pad. 
@@ -36,7 +36,7 @@ CTRL+numpad2: aft
 CTRL+numpad4: port
 ctrl+q: quit program.
 
-##Things to add:
+## Things to add:
 Change the beeps to text to speech once I figure out how.
 Add some kind of visual feedback to indicate status of d-pad.
 I hope you find this useful.
