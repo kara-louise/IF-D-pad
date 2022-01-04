@@ -1,4 +1,4 @@
-﻿; IF D-pad
+; IF D-pad
 ; An Interactive directional pad for parser games. 
 ; by Kara Goldfinch
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
@@ -30,7 +30,7 @@ If Toggle:=!Toggle
 Else	
 	SoundBeep , 750, 150
 return
-
+;Defined hotkeys
 NumPad7::
 send, nw{enter}
 return
