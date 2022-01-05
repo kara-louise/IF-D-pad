@@ -1,11 +1,15 @@
 # IF-D-pad
 An interactive direction pad for moving around Interactive Fiction games.
+©2022 Kara Goldfinch
+
 ## Introduction
 
 This program turns your number pad into a d-pad for interactive fiction games, which  may help you to visualise the layout of rooms more effectively if you are unable to use maps. The directions have been layed out on the number pad, simulating a compass rose, albeit a square one. 8 is north, 9 northeast, 6 east, etc.
 As well as the standard directions, up and down have  been implemented, as well as in and out. You will also find nautical directions (fore, aft etc) for if you're on a ship and the game only accepts those.
 The d-pad is not tied to any specific interpreter, so there's a key to toggle it on and off when required. 
- 
+ I had used a similar system on a MUD, and found I could visualise the game world far easier. I had been looking for something like it for playing IF for a long time. Since no one else seemed to have done such a thing, I decided to make my own.
+I appreciate that this is quite a niche thing in a niche community, so if this is just the thing you've also been looking for, I hope you like it.
+
 ## Usage
 
 Run the provided program and it will sit in the system tray. Ensure that numlock is turned on. The d-pad is turned on by default.
