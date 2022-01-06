@@ -1,10 +1,16 @@
 # IF-D-pad
-An interactive direction pad for moving around Interactive Fiction games.
+
+version 1.0
+
+An interactive direction pad for parser based interactive fiction
+
 ©2022 Kara Goldfinch
 
 ## Introduction
 
-This program turns your number pad into a d-pad  for parser based interactive fiction games, which  may help you to visualise the layout of rooms more effectively if you are unable to use maps. The directions have been layed out on the number pad, simulating a compass rose, albeit a square one. 8 is north, 9 northeast, 6 east, etc.
+This program turns your number pad into a d-pad  for parser based interactive fiction games, which  may help you to visualise the layout of rooms more effectively when navigating round a game's world.  This could be helpful if you are unable to use maps.
+
+The directions have been layed out on the number pad, simulating a compass rose, albeit a square one. 8 is north, 9 northeast, 6 east, etc.
 
 As well as the standard directions, up and down have  been implemented, as well as in and out. You will also find nautical directions (fore, aft etc) for if you're on a ship and the game only accepts those.
 
