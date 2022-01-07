@@ -8,7 +8,7 @@ An interactive direction pad for moving around Interactive Fiction games.
 
 ## Introduction
 
-This program turns your number pad into a d-pad for parser based interactive fiction games, which may help you to visualise the layout of rooms more effectively when navigating round a game's world.  This could be helpful if you are unable to use maps.
+This Windows program allows you to enter directions into parser  games via the number pad. This  may help you visualise the layout of rooms more effectively when navigating round a game's world, which could be helpful if you are unable to use maps.
 
 The directions have been laid out on the number pad, simulating a compass rose, albeit a square one. 8 is north, 9 northeast, 6 east, etc.
 
