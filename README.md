@@ -8,7 +8,11 @@ An interactive direction pad for moving around Interactive Fiction games.
 
 ## Introduction
 
-This Windows program allows you to enter directions into parser  games via the number pad. This  may help you visualise the layout of rooms more effectively when navigating round a game's world, which could be helpful if you are unable to use maps.
+This is the source code for IF D-pad, a Windows program that allows you to enter directions into parser  games via the number pad. It's written in Auto Hotkey.
+
+Either download and run the AHK file or use the compiled version in the Releases section.
+
+The rest of this file is the same as the ReadMe that comes with the released version.
 
 The directions have been laid out on the number pad, simulating a compass rose, albeit a square one. 8 is north, 9 northeast, 6 east, etc.
 
@@ -18,7 +22,9 @@ The d-pad is not tied to any specific interpreter, so there's a key to toggle it
 
 I appreciate that this is quite a niche thing in a niche community, so if this is just the thing you've also been looking for, I hope you like it.
 
+## Downloading
 
+Either download and run
 ## Usage
 
 Run the provided program and it will sit in the system tray. Ensure that num lock is turned on. The d-pad is turned on by default.
